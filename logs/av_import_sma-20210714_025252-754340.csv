@@ -1,0 +1,7 @@
+"DEBUG","2021-07-14 02:52:52.754340","Function av_import_sma called with args:('AMC',){}"
+"ERROR","2021-07-14 02:52:53.729378","Couldn't save the parquet file: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet."
+"DEBUG","2021-07-14 02:52:53.729378","Function av_import_sma call ended with status 'False' and run time: 0.9750139999999998 seconds"

@@ -1,0 +1,2 @@
+"DEBUG","2021-07-14 02:56:35.610962","Function av_import_sma called with args:('AAPL',){}"
+"DEBUG","2021-07-14 02:56:36.829606","Function av_import_sma call ended with status 'True' and run time: 1.2194464000000003 seconds"

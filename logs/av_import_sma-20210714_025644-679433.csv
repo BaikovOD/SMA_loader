@@ -1,0 +1,3 @@
+"DEBUG","2021-07-14 02:56:44.679433","Function av_import_sma called with args:('BBD',){}"
+"ERROR","2021-07-14 02:56:45.183683","Exception. Too many queries in a low period of time:Thank you for using Alpha Vantage! Our standard API call frequency is 5 calls per minute and 500 calls per day. Please visit https://www.alphavantage.co/premium/ if you would like to target a higher API call frequency."
+"DEBUG","2021-07-14 02:56:45.183683","Function av_import_sma call ended with status 'False' and run time: 0.5040776000000005 seconds"

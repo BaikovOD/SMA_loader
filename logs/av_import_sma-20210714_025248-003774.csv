@@ -1,0 +1,3 @@
+"DEBUG","2021-07-14 02:52:48.003774","Function av_import_sma called with args:('FAKETKR',){}"
+"ERROR","2021-07-14 02:52:50.700886","Exception. Check API key or the ticker. error code: Error getting data from the api, no return was given."
+"DEBUG","2021-07-14 02:52:50.701917","Function av_import_sma call ended with status 'False' and run time: 2.6978745 seconds"

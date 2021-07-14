@@ -1,0 +1,6 @@
+"DEBUG","2021-07-14 02:51:51.595433","Function av_import_sma called with args:('ITUB',){}"
+"ERROR","2021-07-14 02:51:51.595433","Exception. Check API key or the ticker. error code: The pandas library was not found, therefore can not be used as an output format, please install manually"
+"DEBUG","2021-07-14 02:51:51.595433","Function av_import_sma call ended with status 'False' and run time: 0.00029189999999998384 seconds"
+"DEBUG","2021-07-14 02:51:51.596422","Function av_import_sma called with args:('TME',){}"
+"ERROR","2021-07-14 02:51:51.596422","Exception. Check API key or the ticker. error code: The pandas library was not found, therefore can not be used as an output format, please install manually"
+"DEBUG","2021-07-14 02:51:51.596422","Function av_import_sma call ended with status 'False' and run time: 0.0009355000000000058 seconds"
